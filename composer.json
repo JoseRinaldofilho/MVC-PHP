@@ -1,0 +1,21 @@
+{
+  "name": "vendor_name/MVC",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Jose Rinaldo Dev",
+      "email": "mundial.cel11@gmail.com"
+    }
+
+  ],
+  "require": {
+
+  }
+}
